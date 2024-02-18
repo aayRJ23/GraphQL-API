@@ -1,4 +1,4 @@
-# GraphQL API and Client Repository
+# GraphQL-API
 
 This repository hosts a full-stack application consisting of a GraphQL API and a client-side application for interacting with the API. The API provides endpoints for querying todos and users, while the client application consumes these endpoints to display todo information along with user details.
 
